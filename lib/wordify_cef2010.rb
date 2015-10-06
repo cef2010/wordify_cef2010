@@ -1,4 +1,5 @@
 require "wordify_cef2010/version"
+require "wordify_cef2010/greeting"
 
 module WordifyCef2010
   def self.reversify(str)
